@@ -1,5 +1,4 @@
-# pgsac
-Patchwise Graph Spectral Attention with Codebook
+# Patchwise Graph Spectral Attention with Codebook
 
 The code will be updated here soon.
 Thank you for your patience.
